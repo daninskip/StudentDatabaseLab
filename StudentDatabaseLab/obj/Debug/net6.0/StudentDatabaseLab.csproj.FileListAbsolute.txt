@@ -1,0 +1,15 @@
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.exe
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.deps.json
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.runtimeconfig.json
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.dll
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.AssemblyReference.cache
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfo.cs
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.dll
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\refint\StudentDatabaseLab.dll
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.genruntimeconfig.cache
+C:\Users\danin\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\ref\StudentDatabaseLab.dll
